@@ -3,18 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tampakis.github.io/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2018-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tampakis.github.io/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tampakis.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>/</loc>
   </url>
   
 </urlset>
